@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fan Schedule//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:長久玲奈 ライブ予定（非公式・ファン作成）
+BEGIN:VEVENT
+UID:2026-11-22-9d7d6e26b1a0@chokurena-fan-schedule
+DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T000000Z
+SUMMARY:ライブ / 長久玲奈（時刻未定）
+LOCATION:新大久保in the Room
+DESCRIPTION:長久玲奈 ライブ予定（非公式・ファン作成）\n
+ 時刻未定\n公式サイトでも対バンイベント、詳細後日と
+ 確認。ページ上部の00:00は確定した開演時刻として扱わ
+ ない。\n公式の公演詳細: https://chokurena.com/schedule/30831\n
+ 出所: https://x.com/chokurena_staff/status/2105213851189076213（取り
+ 込み 2026-10-02）\n出所: https://chokurena.com/schedule/30831（取
+ り込み 2026-10-16）
+URL:https://x.com/chokurena_staff/status/2105213851189076213
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+END:VEVENT
+END:VCALENDAR

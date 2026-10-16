@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fan Schedule//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:長久玲奈 ライブ予定（非公式・ファン作成）
+BEGIN:VEVENT
+UID:2026-10-17-58c55bcca6b8@chokurena-fan-schedule
+DTSTAMP:20261013T000000Z
+LAST-MODIFIED:20261013T000000Z
+SUMMARY:ふるさとスマイルコンサート / 長久玲奈
+LOCATION:福井エンゼルランド
+DESCRIPTION:長久玲奈 ライブ予定（非公式・ファン作成）\n
+ 昼\nエンゼルランドふくい内ファンタジーエッグ。住所
+ ：福井県坂井市春江町東太郎丸3-1。スタッフ告知のラ
+ イブ枠は13:30〜14:00（開場時刻未発表）。終演後に物販
+ あり。スタッフの引用元で公演名とアコースティック
+ ライブを確認。\n会場公式の告知（スタッフ引用元）: h
+ ttps://x.com/angellandfukui/status/2109549657957499006\n出所: https://x.
+ com/chokurena_staff/status/2105211910891462825（取り込み 2026-10-02
+ ）\n出所: https://x.com/chokurena_staff/status/2109587800777765182（
+ 取り込み 2026-10-13）
+URL:https://x.com/chokurena_staff/status/2105211910891462825
+STATUS:CONFIRMED
+DTSTART:20261017T043000Z
+DTEND:20261017T050000Z
+END:VEVENT
+END:VCALENDAR

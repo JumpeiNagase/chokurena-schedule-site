@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fan Schedule//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:長久玲奈 ライブ予定（非公式・ファン作成）
+BEGIN:VEVENT
+UID:2026-12-05-2138fff2a2f6@chokurena-fan-schedule
+DTSTAMP:20261003T000000Z
+LAST-MODIFIED:20261003T000000Z
+SUMMARY:ライブ / 長久玲奈（時刻未定）
+LOCATION:会場未発表
+DESCRIPTION:長久玲奈 ライブ予定（非公式・ファン作成）\n
+ 時刻未定\n福井県内。会場・時刻・詳細未発表。\n出所:
+  https://x.com/chokurena_staff/status/2094605481226772519（取り込み 2
+ 026-10-03）
+URL:https://x.com/chokurena_staff/status/2094605481226772519
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+END:VEVENT
+END:VCALENDAR

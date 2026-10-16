@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fan Schedule//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:長久玲奈 ライブ予定（非公式・ファン作成）
+BEGIN:VEVENT
+UID:2026-11-29-a5028115ec5d@chokurena-fan-schedule
+DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T000000Z
+SUMMARY:ライブ / 長久玲奈（時刻未定）
+LOCATION:渋谷eggman
+DESCRIPTION:長久玲奈 ライブ予定（非公式・ファン作成）\n
+ 昼・時刻未定\n公式サイトでも対バンイベント、詳細後
+ 日と確認。ページ上部の00:00は確定した開演時刻として
+ 扱わない。昼開催の案内あり。\n公式の公演詳細: https:/
+ /chokurena.com/schedule/30832\n出所: https://x.com/chokurena_staff/statu
+ s/2105213851189076213（取り込み 2026-10-02）\n出所: https://chokur
+ ena.com/schedule/30832（取り込み 2026-10-16）
+URL:https://x.com/chokurena_staff/status/2105213851189076213
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+END:VEVENT
+END:VCALENDAR

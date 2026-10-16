@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fan Schedule//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:長久玲奈 ライブ予定（非公式・ファン作成）
+BEGIN:VEVENT
+UID:2026-10-24-2bf2cd754c19@chokurena-fan-schedule
+DTSTAMP:20261015T000000Z
+LAST-MODIFIED:20261015T000000Z
+SUMMARY:フリーライブ / 長久玲奈（時刻未定）
+LOCATION:イオンモール幕張新都心
+DESCRIPTION:長久玲奈 ライブ予定（非公式・ファン作成）\n
+ 昼〜夕方・時刻未定\n公式案内では昼から夕方の開催予
+ 定。開場・開演・本人出演の確定時刻は未発表。\n公式
+ の公演詳細: https://chokurena.com/schedule/30825\n出所: https://x.c
+ om/chokurena_staff/status/2105211910891462825（取り込み 2026-10-02）
+ \n出所: https://chokurena.com/schedule/30825（取り込み 2026-10-15
+ ）
+URL:https://x.com/chokurena_staff/status/2105211910891462825
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+END:VEVENT
+END:VCALENDAR

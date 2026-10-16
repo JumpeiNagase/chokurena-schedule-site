@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fan Schedule//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:長久玲奈 ライブ予定（非公式・ファン作成）
+BEGIN:VEVENT
+UID:2026-10-23-6075f6cbf3b3@chokurena-fan-schedule
+DTSTAMP:20261014T000000Z
+LAST-MODIFIED:20261014T000000Z
+SUMMARY:ハロウィンネットサイン会 / 長久玲奈
+LOCATION:オンライン（ファンクラブ配信）
+DESCRIPTION:長久玲奈 ライブ予定（非公式・ファン作成）\n
+ 夜・終了未定\n終了時刻未定（カレンダー形式上の仮枠
+ は1分。公演時間を表しません）\n本人告知でファンク
+ ラブ配信と確認。未入会でも当日の本人ポストのリン
+ クから閲覧可能との案内。配信URLは未発表。アクリル
+ キーホルダー受注締切10月15日23:59。その他対象商品・
+ 購入条件はスタッフ告知を参照。\n対象商品・購入条件
+ のスタッフ告知: https://x.com/chokurena_staff/status/21099835805922
+ 47291\n出所: https://x.com/__cho__kurena/status/2109987763621916810（
+ 取り込み 2026-10-14）
+URL:https://x.com/__cho__kurena/status/2109987763621916810
+STATUS:CONFIRMED
+DTSTART:20261023T103000Z
+DTEND:20261023T103100Z
+END:VEVENT
+END:VCALENDAR

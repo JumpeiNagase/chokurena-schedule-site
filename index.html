@@ -1,0 +1,15 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="長久玲奈さんのライブ・イベント予定。非公式・ファン作成。告知元を確認して、自分のカレンダーへ。"><title>長久玲奈 ライブ予定（非公式・ファン作成）</title><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="style.css"><script type="module" src="app.js"></script></head><body>
+<header><div class="wrap"><a class="brand" href="./">LIVE CALENDAR <span>非公式・ファン作成</span></a><nav aria-label="メイン"><a href="#schedule">予定一覧</a><a href="#calendar">カレンダー</a><a href="#sources">告知元</a></nav></div></header>
+<main class="wrap"><section class="intro"><p class="eyebrow">長久玲奈 / FAN SCHEDULE</p><h1>次のライブを、<br class="mobile">カレンダーに。</h1><p>非公式・ファン作成の予定一覧です。<br>最新情報は各告知元をご確認ください。</p><div id="subscribe" class="actions"></div><p id="subscription-note" class="small">購読すると、追加・変更された予定がカレンダー側で更新されます。</p><p id="preview" class="notice" hidden>確認用プレビュー：変更案は人が確認してマージした後に公開されます。</p></section>
+<section id="schedule"><div class="section-heading"><h2>これからの予定</h2><span id="count"></span></div><form id="filters" aria-label="予定の絞り込み">
+<label>地域<select id="area-filter"><option value="">すべての地域</option></select></label>
+<label>会場<select id="venue-filter"><option value="">すべての会場</option></select></label>
+<label>時間帯<select id="time-filter"><option value="">すべての時間帯</option><option value="morning">朝（12時より前）</option><option value="day">昼（12〜18時未満）</option><option value="night">夜（18時以降）</option><option value="unknown">時間帯未定</option></select></label>
+<label>ジャンル<select id="kind-filter"><option value="">すべてのジャンル</option></select></label>
+<button type="reset" class="button">絞り込みを解除</button>
+</form><p class="small">時間帯は開演、未発表なら本人の出演時刻または告知の「昼・夜」で分類。ジャンル未発表は「ライブ（分類未発表）」に含まれます。</p>
+<p id="filter-result" role="status"></p><div id="events"><p>予定を読み込んでいます…</p></div><details id="past"><summary>過ぎた予定</summary><div id="past-events"></div></details></section>
+<section id="calendar"><div class="section-heading"><h2>月のカレンダー</h2><span>日本時間</span></div><div id="calendar-content"></div></section>
+<section id="sources"><h2>最新情報は告知元へ</h2><div class="source-grid"><a href="https://x.com/chokurena_staff">スタッフ公式 X <strong>@chokurena_staff</strong></a><a href="https://x.com/__cho__kurena">本人 X <strong>@__cho__kurena</strong></a><a href="https://chokurena.com/schedule">公式サイト <strong>スケジュール</strong></a></div></section></main>
+<footer class="wrap"><strong>長久玲奈 ライブ予定（非公式・ファン作成）</strong><p>本人・所属事務所・運営とは関係ありません。写真や告知本文は転載せず、日付・会場などの事実と出所を掲載しています。</p><p id="contact"></p><p class="small">更新の流れ：告知 → 変更案（PR） → 人が確認 → マージ → サイト・カレンダーへ反映</p></footer>
+</body></html>
