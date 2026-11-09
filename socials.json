@@ -1,0 +1,54 @@
+{
+  "verified_at": "2026-10-18",
+  "links": [
+    {
+      "category": "OFFICIAL",
+      "label": "長久玲奈 公式サイト",
+      "url": "https://chokurena.com",
+      "source_url": "https://chokurena.com",
+      "imported_at": "2026-10-17"
+    },
+    {
+      "category": "STAFF / X",
+      "label": "@chokurena_staff",
+      "url": "https://x.com/chokurena_staff",
+      "source_url": "https://chokurena.com",
+      "imported_at": "2026-10-17"
+    },
+    {
+      "category": "ARTIST / X",
+      "label": "@__cho__kurena",
+      "url": "https://x.com/__cho__kurena",
+      "source_url": "https://chokurena.com",
+      "imported_at": "2026-10-17"
+    },
+    {
+      "category": "FANCLUB",
+      "label": "Fanicon · 公式サポーターサイト",
+      "url": "https://fanicon.net/fancommunities/2241",
+      "source_url": "https://x.com/chokurena_staff",
+      "imported_at": "2026-10-17"
+    },
+    {
+      "category": "SHORT VIDEO",
+      "label": "TikTok · @kurena05",
+      "url": "https://www.tiktok.com/@kurena05",
+      "source_url": "https://x.com/__cho__kurena",
+      "imported_at": "2026-10-17"
+    },
+    {
+      "category": "SUPPORT",
+      "label": "Buy Me a Coffee · 活動を応援",
+      "url": "https://buymeacoffee.com/chokurena",
+      "source_url": "https://x.com/chokurena_staff/status/2109260668969050303",
+      "imported_at": "2026-10-18"
+    },
+    {
+      "category": "LIVE STREAM",
+      "label": "SHOWROOM · 長久玲奈",
+      "url": "https://www.showroom-live.com/room/profile?room_id=238794",
+      "source_url": "https://x.com/__cho__kurena/status/2111444851191611542",
+      "imported_at": "2026-10-18"
+    }
+  ]
+}
