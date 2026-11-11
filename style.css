@@ -10,6 +10,7 @@
 @media(max-width:1000px){.intro{grid-template-columns:1.3fr 1fr;gap:30px}.notebook-art{position:absolute;width:150px;right:24%;top:25px;opacity:.24;z-index:-1}.guide{grid-template-columns:1fr}.suggestions,#guide-note{grid-column:1;grid-row:auto}h1{font-size:44px}}@media(max-width:560px){header{min-height:auto;padding-top:24px;padding-bottom:20px}.intro{grid-template-columns:1fr;padding:28px 0 45px;gap:30px}.intro h1{font-size:38px}.notebook-art{width:125px;right:0;top:22px;opacity:.25}#next-event{transform:rotate(1deg);margin:10px 4px;padding:20px}#next-event .next-date{font-size:35px}.guide{padding:24px 18px;border-radius:14px;margin-bottom:40px}.guide h2{font-size:22px}.ask-row{flex-direction:column}.ask-row .button{font-size:13px;min-height:42px}.suggestions{margin-top:14px}.section-heading{align-items:start;flex-direction:column;gap:14px}h2{font-size:23px}.view-switch{align-self:stretch}.view-switch button{flex:1}.period-title h3{font-size:22px}.day-cell{min-height:100px}.calendar-event{padding:4px 2px}.week-grid .day-cell.today{background:#fff3d9}.brand{font-size:13px}.guide>div:first-child p:not(.eyebrow){font-size:12px}}
 
 /* Keep the illustration in its own grid cell at every screen width. */
+.intro h1 em{white-space:normal;overflow-wrap:anywhere}
 .intro{grid-template-columns:minmax(0,1.3fr) minmax(150px,.8fr) minmax(0,.85fr)}
 .intro>div:first-child,#next-event{min-width:0}
 .notebook-art{position:relative;inset:auto;width:100%;opacity:1;z-index:auto;transform:none}
